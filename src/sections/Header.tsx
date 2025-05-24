@@ -1,3 +1,5 @@
+// TODO: style header component
+
 export const Header = () => {
   return (
     <div>
