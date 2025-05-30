@@ -1,5 +1,3 @@
-// TODO: style header component
-
 export const Header = () => {
   return (
     <div className="flex justify-center items-center relative top-3">
