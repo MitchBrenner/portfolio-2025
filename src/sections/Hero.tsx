@@ -16,7 +16,7 @@ export const HeroSection = () => {
             </div>
           </div>
         </div>
-        {/* Title */}
+        {/* Title Container */}
         <div className="max-w-lg mx-auto">
           <h1 className="font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide">
             Building Exceptional User Experiences
